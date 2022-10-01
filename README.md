@@ -13,6 +13,7 @@
   <!-- [![Years Badge](https://badges.pufler.dev/years/mohamedibraa/)](https://badges.pufler.dev) -->
 </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedibraa&column=7&theme=gruvbox&no-frame=true" width="98%"/>
 
 <!--
 **mohamedibraa/mohamedibraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
