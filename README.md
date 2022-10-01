@@ -26,8 +26,8 @@
 <h2> About </h2>
   
 🎓 Just Graduated from the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
-🏛 `**Computer Science** Department - Class: 2022 - overall GPA: 3.7/4` </br>
-🏡 Live in Cairo, Egypt (🇪🇬).
+🏛 Computer Science** Department - Class: 2022 - overall GPA: 3.6/4` </br>
+🏡Live in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
 - Proficiency with Algorithms and Data Structures.
 - Proficiency with OOP and Design Patterns.
@@ -39,6 +39,15 @@
 | [Show Resume](https://drive.google.com/file/d/1nSCbuFthd5FavZMLlgsjvCRCQG8fPmMT/view?usp=sharing) |
 | :-------------------------------------: |
 
+<h2> Languages </h2>
+
+- Arabic -> Native
+- English -> Full Proficiencey
+- French -> Elementary Proficiency
+
+ ### Graduation Project
+ |[B.Sc. Graduation Project] Covid-19 detection using ECG trace images Using Deep Learning Techniques](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing)|
+ |:----------:|
 <!--
 **mohamedibraa/mohamedibraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
