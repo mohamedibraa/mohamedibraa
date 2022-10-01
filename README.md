@@ -47,7 +47,8 @@
 
  ### B.Sc Graduation Project
  
- Covid-19 detection using ECG trace images Using Deep Learning Techniques : Using ECG trace Images we discovered many human diseases such as (COVID19, myocardial infarction(MI), abnormal heartbeat (AHB), and recovered myocardial infarction (RMI) Using a deep learning CNN model with an accuracy of 97%.
+ Covid-19 detection using ECG trace images Using Deep Learning Techniques :-
+Using ECG trace Images we discovered many human diseases such as (COVID19, myocardial infarction(MI), abnormal heartbeat (AHB), and recovered myocardial infarction (RMI) Using a deep learning CNN model with an accuracy of 97%.
 Using the augmentation process we managed to balance data classes after applying some preprocessing techniques. we built an application that
 will take the ECG trace image and tell the user if he/she is infected with covid-19 or any heart disease or not
  | [Project Doc](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing)|
