@@ -46,8 +46,9 @@
 - French -> Elementary Proficiency
 
  ### B.Sc Graduation Project
- |[Covid-19 detection using ECG trace images Using Deep Learning Techniques](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing)
- |
+ 
+ - Covid-19 detection using ECG trace images Using Deep Learning Techniques.
+ - [Project Doc](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing)|
  |:----------:|
 <!--
 **mohamedibraa/mohamedibraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
