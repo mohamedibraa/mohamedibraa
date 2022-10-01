@@ -71,8 +71,7 @@ will take the ECG trace image and tell the user if he/she is infected with covid
  | [Covido](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing) | [Zigzago](https://github.com/mohamedibraa/Zigzago-Application)  |  [Content-Aware Image Resizing](https://github.com/mohamedibraa/ContentAwareResize) | [Sportive Health Routine Regulator](https://github.com/mohamedibraa/Sportive-Health-Routine-Regulator) |
  |[Bag Monitoring (IOT Application), ITI Training](https://github.com/mohamedibraa/Bag_Monitoring_IOT_Application)|[]()|[Blood-Donation](https://github.com/mohamedibraa/Blood-Donation)|[Food-Catering-Delivery](https://github.com/mohamedibraa/Food-Catering-Delivery)|
  |[Loan Risk Project](https://github.com/mohamedibraa/Loan-Risk-MLProject)|[]()|[Hospital Managment System](https://github.com/mohamedibraa/Hospital-Managment-System)|[Dictionary (BST Data Structure c++)](https://github.com/mohamedibraa/Dictionary-BSTDataStructure)| 
- |[Places and Scene Recognition](https://github.com/mohamedibraa/Places-and-Scene-Recognition)|[]()|[
-DictionaryUsingFiles](https://github.com/mohamedibraa/DictionaryUsingFiles)|[Vehicle-plates-detection, (Matlab)](https://github.com/mohamedibraa/Vehicle-plates-detection)|
+ |[Places and Scene Recognition](https://github.com/mohamedibraa/Places-and-Scene-Recognition)|[]()|[DictionaryUsingFiles](https://github.com/mohamedibraa/DictionaryUsingFiles)|[Vehicle-plates-detection, (Matlab)](https://github.com/mohamedibraa/Vehicle-plates-detection)|
  |[]()|[]()|[]()|[]()|
 
  
