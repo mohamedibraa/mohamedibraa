@@ -15,6 +15,15 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=mohamedibraa&column=7&theme=gruvbox&no-frame=true" width="98%"/>
 
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedibraa&theme=dark" width="49%" align=left/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedibraa&locale=en&theme=tokyonight&show_icons=true&line_height=25&border_radius=5" width="49%" />
+</div>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem100&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" width="380"/> -->
+
+*** 
+
 <!--
 **mohamedibraa/mohamedibraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
