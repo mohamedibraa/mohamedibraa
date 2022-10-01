@@ -34,7 +34,10 @@
 - Good knowledge of Supervised Machine Learning.
 - Good knowledge of Digital Image Processing.
 - Good knowledge of Unit Testing.
-
+- Interested in Software Development.
+- Database such as (SQL Server, Oracle SQL, Room, Firebase).
+- Strong Knowledge of java, C++, C# ,Dart ,R and Python Programming Languages.
+- Project Management & Tools: Git, GitHub, Agile Methodology, Software Development Life Cycle (SDLC).
 
 | [Show Resume](https://drive.google.com/file/d/1nSCbuFthd5FavZMLlgsjvCRCQG8fPmMT/view?usp=sharing) |
 | :-------------------------------------: |
