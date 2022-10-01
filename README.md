@@ -25,7 +25,7 @@
 *** 
 <h2> About </h2>
   
-🎓 Just Graduated from the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
+🎓 Graduated from the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
 🏛 Scientific Computing** Department - Class: 2022 - overall GPA: 3.6/4` </br>
 🏡Live in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
