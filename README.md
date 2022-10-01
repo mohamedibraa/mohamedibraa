@@ -35,7 +35,7 @@
 - Good knowledge of Digital Image Processing.
 - Good knowledge of Unit Testing.
 - Interested in Software Development.
-- Database such as (SQL Server, Oracle SQL, Room, Firebase).
+- Database such as (SQL Server, Oracle SQL).
 - Strong Knowledge of java, C++, C# ,Dart ,R and Python Programming Languages.
 - Project Management & Tools: Git, GitHub, Agile Methodology, Software Development Life Cycle (SDLC).
 
