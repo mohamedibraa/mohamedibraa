@@ -56,6 +56,23 @@ Using the augmentation process we managed to balance data classes after applying
 will take the ECG trace image and tell the user if he/she is infected with covid-19 or any heart disease or not
  | [Project Doc](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing)|
  |:----------:|
+ 
+ ### Contact with me:
+
+[![gmail](https://user-images.githubusercontent.com/52586356/104854957-6ee95180-5912-11eb-975a-0c2670b33801.png)][1]
+[![linkedin](https://user-images.githubusercontent.com/52586356/104855029-f8008880-5912-11eb-8ed3-1071d96d9060.png)][2]
+
+[1]: mohammedibraa306@gmail.com
+[2]: https://www.linkedin.com/in/mohamed-ibrahim-ismail-19b7891a7/
+
+
+ |               The Elite                   |                 Android                |                Desktop               |        Others</br>(Individual Tasks) |
+ | :-------------------------------------: | :-------------------------------------: | :----------------------------------: |:---------------------------------------------: |
+ | [Movies-AI-Recommender-System]() | [Zakrni]() `private 4 now` |  [ScientificCalculator]() | [LeetCodeProblems]() |
+ 
+ 
+ 
+
 <!--
 **mohamedibraa/mohamedibraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
