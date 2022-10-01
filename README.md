@@ -68,13 +68,13 @@ will take the ECG trace image and tell the user if he/she is infected with covid
 
  |               The Elite                   |                 Android                |                Desktop               |        Others</br>(Individual Tasks) |
  | :-------------------------------------: | :-------------------------------------: | :----------------------------------: |:---------------------------------------------: |
- | [Covido](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing) | []() `private 4 now` |  []() | [() |
+ | [Covido](https://drive.google.com/file/d/11V17CCmCe7UROkPqnEP_qVooNHX9iwmG/view?usp=sharing) | [x]() `private 4 now` |  [y]() | [(z) |
  
- |[Bag Monitoring (IOT Application), ITI Training](https://github.com/mohamedibraa/Bag_Monitoring_IOT_Application)|[]()|[]()|[]()|
+ |[Bag Monitoring (IOT Application), ITI Training](https://github.com/mohamedibraa/Bag_Monitoring_IOT_Application)|[x]()|[y]()|[z]()|
  
- |[Loan Risk Project](https://github.com/mohamedibraa/Loan-Risk-MLProject)|[]()|[]()|[]()| 
+ |[Loan Risk Project](https://github.com/mohamedibraa/Loan-Risk-MLProject)|[x]()|[y]()|[z]()| 
 
- |[Places and Scene Recognition](https://github.com/mohamedibraa/Places-and-Scene-Recognition)|[]()|[]()|[]()|
+ |[Places and Scene Recognition](https://github.com/mohamedibraa/Places-and-Scene-Recognition)|[x]()|[y]()|[z]()|
  |[]()|[]()|[]()|[]()|
 
  
