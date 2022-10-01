@@ -20,9 +20,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedibraa&locale=en&theme=tokyonight&show_icons=true&line_height=25&border_radius=5" width="49%" />
 </div>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem100&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" width="380"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedibraa&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" width="380"/> -->
 
 *** 
+<h2> About </h2>
+  
+🎓 Just Graduated from the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
+🏛 `**Computer Science** Department - Class: 2022 - overall GPA: 3.7/4` </br>
+🏡 Live in Cairo, Egypt (🇪🇬).
+- Problem Solving Skills.
+- Proficiency with Algorithms and Data Structures.
+- Proficiency with OOP and Design Patterns.
+- Good knowledge of Supervised Machine Learning.
+- Good knowledge of Digital Image Processing.
+- Good knowledge of Unit Testing.
+
+
+| [Show Resume](https://drive.google.com/file/d/1nSCbuFthd5FavZMLlgsjvCRCQG8fPmMT/view?usp=sharing) |
+| :-------------------------------------: |
 
 <!--
 **mohamedibraa/mohamedibraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
